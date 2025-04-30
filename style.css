@@ -94,7 +94,7 @@ body {
   background-image: url("img/header-bg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right;
 }
 
 .hero::after {
